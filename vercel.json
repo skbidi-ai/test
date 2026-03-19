@@ -1,0 +1,13 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/calculator", "destination": "/calculator.html" },
+    { "source": "/community", "destination": "/community.html" },
+    { "source": "/create-trade", "destination": "/create-trade.html" },
+    { "source": "/login", "destination": "/login.html" },
+    { "source": "/privacy-policy", "destination": "/privacy-policy.html" },
+    { "source": "/terms-of-service", "destination": "/terms-of-service.html" },
+    { "source": "/trade-offers", "destination": "/trade-offers.html" },
+    { "source": "/values", "destination": "/values.html" }
+  ]
+}
